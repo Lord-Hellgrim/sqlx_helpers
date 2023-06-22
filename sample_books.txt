@@ -1,0 +1,4 @@
+title;author;isbn
+Game of Thrones;George RR Martin;0
+Lord of the Rings;JRR Tolkien;1
+The Trap;James Goldsmith;2
